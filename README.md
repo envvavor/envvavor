@@ -15,12 +15,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arya-syaputra&show_icons=true&theme=tokyonight)
+![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=envvavor&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arya-syaputra&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envvavor&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aryasuryasyaputra)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/envvavor)
