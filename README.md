@@ -1,11 +1,11 @@
-# Hi there, I'm Arya 👋  
+# こんにちは私はスリャです 👋  
 
-🎓 A student at **Politeknik Negeri Indramayu**  
-💻 Passionate about **Flutter, Laravel, React**, and everything full-stack  
+🎓 **ポリテクニック・ネゲリ・インドラマユ** の学生  
+💻 **Flutter、Laravel、React** などのフルスタック開発に情熱を持っています  
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 技術スタック  
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub スタッツ  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=envvavor&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=envvavor&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 コネクト  
 <p align="center">
   <a href="https://linkedin.com/in/aryasuryasyaputra">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -36,4 +36,4 @@
 
 ---
 
-⭐️ _"Code. Learn. Share. Repeat."_  
+⭐️ _「コードを書き、学び、共有し、繰り返す。」_  
