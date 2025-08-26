@@ -1,8 +1,7 @@
 # Hi there, I'm Arya 👋
 
 🎓 I'm a student at Politeknik Negeri Indramayu  
-💻 Interested in Flutter, Laravel, and E-Learning systems  
-🚀 Currently building a mobile + web LMS  
+💻 Interested in Flutter, Laravel, React And More
 
 ---
 
